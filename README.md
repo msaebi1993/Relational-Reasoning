@@ -2,7 +2,7 @@
 
 ### Environment variables & dependencies
 
-Please create a virtual environment for smoother functioning and to avoid any dependency issues. Please refer to Managing Virtual Environments for details on creating virtual environment. After activating the virtual environment, please install Pytorch (>=0.4.1) and use the Makefile to set up the rest of the dependencies. 
+Please create a virtual environment for smoother functioning and to avoid any dependency issues. Please install Pytorch (>=0.4.1) and use the Makefile to set up the rest of the dependencies. 
 ```
 make setup
 ```
