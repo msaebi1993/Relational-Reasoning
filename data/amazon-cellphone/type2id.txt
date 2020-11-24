@@ -1,5 +1,0 @@
-product	31034
-relatedproduct	23482
-user	6043
-category	1341
-brand	168
