@@ -50,7 +50,7 @@ To generate the evaluation results of a pre-trained model, simply change the `--
 ./experiment-rs.sh configs/<dataset>-rs.sh --inference <gpu-ID>
 ```
 
-* Note for the NELL-995 dataset: 
+Note for the NELL-995 dataset: 
 
   On this dataset we split the original training data into `train.triples` and `dev.triples`, and the final model to test has to be trained with these two files combined. 
   1. To obtain the correct test set results, you need to add the `--test` flag to all data pre-processing, training and inference commands.  
