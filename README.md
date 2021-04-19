@@ -60,6 +60,8 @@ To generate the evaluation results of a pre-trained model, simply change the `--
 ### Change the hyperparameters
 To change the hyperparameters and other experiment set up, start from the [configuration files](configs).
 
+### Acknowledgements
+
 This work is built upon the [MultihopKG] (https://github.com/salesforce/MultiHopKG) work. Please refer to their implementation for further details.
 
 
